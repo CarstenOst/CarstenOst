@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## <h3 align="left">GitHub Stats</h3>
 
+![](https://komarev.com/ghpvc/?username=CarstenOst&label=PROFILE+VIEWS)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarstenOst&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
